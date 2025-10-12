@@ -1,0 +1,7 @@
+[project]
+name = "mocad"
+version = "0.1.0"
+description = "marimo utilities to develop codecad models"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
