@@ -30,5 +30,5 @@ Optimiseation engine to run the geometry build and check for interferance etc on
 
 - [ ] research what this process is called.
 
-Hybrid with simulations and plots all in the same project/notebook. Nearly like unit tests for designs.
+Hybrid with simulations and plots all in the same project/notebook. Nearly like unit tests for designs. This may not live in this repo, maybe a mosim or something.
 
