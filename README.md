@@ -9,6 +9,15 @@ This seems a nice use of [anywidget]().
 
 Think of this as a means to have gui's for steps in the design. No need to suppress features like in typical CAD packages. It's like test points on hydraulic circuits to see behaviour at a point. 
 
+# Get Started
+
+To run in notebook edit form and iterate on the design:
+    `uv run marimo edit`
+
+To run in script form and get model output: 
+    `uv run ./examples/codecad-nb.py --help`
+
+
 # Roadmap
 
 Currently thinking to:
