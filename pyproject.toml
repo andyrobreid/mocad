@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "marimo utilities to develop codecad models"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "build123d>=0.9.1",
+    "marimo>=0.17.5",
+    "typer>=0.20.0",
+]
