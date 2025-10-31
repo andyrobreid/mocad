@@ -1,11 +1,11 @@
 # mocad
 
-[Marimo]() for [codecad]() gives you `mocad`
+[Marimo](https://marimo.io/) for [codecad](https://learn.cadhub.xyz/blog/curated-code-cad/) gives you `mocad`
 
-This is a current experiment of mine to bring codecad into the marimo notebook. Recently marimo has taken off being an alternative to [jupyter](). Marimo being reproducable and reactive, I envisaged it's use for codecad. I've already been working with codecad and notebooks via vscodes python execution syntax [check this repo]().
-For the CodeCAD end of things I'll be using [build123d]() as my preference.
+This is a current experiment of mine to bring codecad into the marimo notebook. Recently marimo has taken off being an alternative to jupyter notebooks. Marimo being reproducable and reactive, I envisaged it's use for codecad. I've already been working with codecad and notebooks via vscodes python execution syntax check out my [CodeCAD repo](https://github.com/andyrobreid/CodeCAD/).
+For the CodeCAD end of things I'll be using [build123d](https://github.com/gumyr/build123d) as my preference.
 
-This seems a nice use of [anywidget]().
+This seems a nice use of [anywidget](https://anywidget.dev/).
 
 Think of this as a means to have gui's for steps in the design. No need to suppress features like in typical CAD packages. It's like test points on hydraulic circuits to see behaviour at a point. 
 
